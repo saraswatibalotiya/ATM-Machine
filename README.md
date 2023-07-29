@@ -31,7 +31,7 @@ Backend : MySQL
 
 ![image](https://github.com/saraswatibalotiya/ATM-Machine/assets/54326277/0a26637b-034b-4873-9e8c-c8e77c23f9ff)
 
-**Main Screen**  : The Main Screen appear only after 
+**Main Screen**  : The Main Screen appear only after User Login .
 
 ![image](https://github.com/saraswatibalotiya/ATM-Machine/assets/54326277/e7e63411-9ae7-4069-adc1-f1f72aefa45c)
 
